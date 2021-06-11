@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.exe
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\bin\Debug\netcoreapp3.1\selectionStatementExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\selectionStatementExercise\selectionStatementExercise\selectionStatementExercise\obj\Debug\netcoreapp3.1\selectionStatementExercise.genruntimeconfig.cache
